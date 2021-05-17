@@ -7,7 +7,7 @@
 
         <variable
             name="movie"
-            type="com.dowy.android.model.movie.Movie" />
+            type="com.example.android.model.movie.Movie" />
     </data>
 
     <LinearLayout

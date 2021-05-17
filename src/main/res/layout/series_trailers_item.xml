@@ -7,11 +7,11 @@
 
         <variable
             name="trailer"
-            type="com.dowy.android.model.tv.TvTrailer" />
+            type="com.example.android.model.tv.TvTrailer" />
 
         <variable
             name="clickListener"
-            type="com.dowy.android.adapter.trailer.TrailerClickListener" />
+            type="com.example.android.adapter.trailer.TrailerClickListener" />
 
     </data>
 

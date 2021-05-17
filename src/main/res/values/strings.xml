@@ -50,7 +50,7 @@
     <string name="sharing_failed">Sharing failed, Try again later!</string>
 
     <!--About Page-->
-    <string name="about_app_link" translatable="false">com.dowy.android</string>
+    <string name="about_app_link" translatable="false">com.example.android</string>
     <string name="about_descricao">Movie is an application that helps you find the best rated and most popular movies and series to watch. \n\nThis product uses the TMDb API, but is not endorsed or certified by TMDb</string>
     <!--About Page-->
 

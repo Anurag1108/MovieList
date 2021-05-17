@@ -7,7 +7,7 @@
 
         <variable
             name="tvSeries"
-            type="com.dowy.android.model.tv.TvSeries" />
+            type="com.example.android.model.tv.TvSeries" />
     </data>
 
     <ScrollView

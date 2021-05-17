@@ -7,7 +7,7 @@
 
         <variable
             name="person"
-            type="com.dowy.android.model.person.Person" />
+            type="com.example.android.model.person.Person" />
     </data>
 
     <LinearLayout

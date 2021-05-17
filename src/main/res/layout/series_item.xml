@@ -7,11 +7,11 @@
 
         <variable
             name="series"
-            type="com.dowy.android.model.tv.TvSeries" />
+            type="com.example.android.model.tv.TvSeries" />
 
         <variable
             name="clickListener"
-            type="com.dowy.android.adapter.series.SeriesClickListener" />
+            type="com.example.android.adapter.series.SeriesClickListener" />
     </data>
 
     <androidx.cardview.widget.CardView

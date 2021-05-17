@@ -10,7 +10,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId "com.dowy.android"
+        applicationId "com.example.android"
         minSdkVersion 21
         targetSdkVersion 30
         versionCode 1
