@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Dowy</string>
+    <string name="app_name" translatable="false">Movie</string>
     <string name="movies">Movies</string>
     <string name="tv_series">TV Series</string>
     <string name="favorites">Favorites</string>
